@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeApp.Console", "PracticeApp.Console\PracticeApp.Console.csproj", "{A11FA518-55F0-4D29-B7F5-F1D304BAFEEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS.MediatR.Practice.API", "CQRS.MediatR.Practice.API\CQRS.MediatR.Practice.API.csproj", "{840D914D-C7CF-489C-8BCC-582C48EC273E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A11FA518-55F0-4D29-B7F5-F1D304BAFEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11FA518-55F0-4D29-B7F5-F1D304BAFEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11FA518-55F0-4D29-B7F5-F1D304BAFEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11FA518-55F0-4D29-B7F5-F1D304BAFEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{840D914D-C7CF-489C-8BCC-582C48EC273E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840D914D-C7CF-489C-8BCC-582C48EC273E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840D914D-C7CF-489C-8BCC-582C48EC273E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840D914D-C7CF-489C-8BCC-582C48EC273E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB3AA391-38BE-4DC4-AB92-C951A2F8DDE1}
+	EndGlobalSection
+EndGlobal
